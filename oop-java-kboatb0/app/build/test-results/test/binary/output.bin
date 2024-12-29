@@ -1,0 +1,19 @@
+$Tesla rented by Kwabena for 4 days
+Rental Successful
+TransactionId: 1
+Customer: Kwabena
+Vehicle: Tesla
+Start Date: 2024-12-29
+End Date: 2025-01-02
+Total Cost: $586.0
+Status: Ongoing
+
+Tesla returned
+TransactionId: 1
+Customer: Kwabena
+Vehicle: Tesla
+Start Date: 2024-12-29
+End Date: 2025-01-02
+Total Cost: $586.0
+Status: Returned
+
